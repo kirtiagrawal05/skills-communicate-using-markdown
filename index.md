@@ -8,3 +8,7 @@
 ``` javascript
 var myVar = "hello world":
 ```
+-[x] Added header <br>
+-[x] Added image <br>
+-[x] Added code <br>
+-[ ] Added a task list <br>
