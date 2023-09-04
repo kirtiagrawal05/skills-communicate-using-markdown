@@ -5,3 +5,6 @@
 ##### this is H5 header 
 ###### this is H6 header
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "hello world":
+```
